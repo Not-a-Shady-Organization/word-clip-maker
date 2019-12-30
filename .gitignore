@@ -1,0 +1,10 @@
+
+.not-shady-utils
+.envrc
+*env
+
+auth-key-file.json
+exploration
+__pycache__
+tmp
+.DS_Store
